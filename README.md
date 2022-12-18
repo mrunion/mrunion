@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mrunion
 - 👀 I’m interested in Cloud (AWS primarily) and software development
-- 🌱 I’m currently learning Flutter and Dart
 - 💞️ I’m looking to collaborate on nothing at the moment -- work keeps me too busy!
 - 📫 How to reach me -- leaving a message here is fine.
 
